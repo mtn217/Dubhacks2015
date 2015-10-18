@@ -10,4 +10,6 @@
     <string name="loveitbutton">LOVE IT!</string>
     <string name="finaloutfit">Share Outfit</string>
     <string name="leftNav">leftNav</string>
+    <string name="title_activity_test_nav">TestNav</string>
+    <string name="title_activity_test_navv">TestNavv</string>
 </resources>
