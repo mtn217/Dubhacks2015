@@ -47,4 +47,15 @@
         android:textStyle="bold"
         android:textColor="#ffffff"
         android:clickable="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Sign Up"
+        android:id="@+id/textView2"
+        android:layout_gravity="left|bottom"
+        android:clickable="true"
+        android:layout_marginLeft="50px"
+        android:layout_marginBottom="100px" />
 </FrameLayout>
