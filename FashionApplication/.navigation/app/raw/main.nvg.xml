@@ -6,10 +6,50 @@
     <statePointEntry>
       <state      
         class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.dcmar.fashionapp.closet"/>
+      <point      
+        x = "2926"      
+        y = "52"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.dcmar.fashionapp.backgrounds"/>
+      <point      
+        x = "2094"      
+        y = "57"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.dcmar.fashionapp.wrongpassword"/>
+      <point      
+        x = "1245"      
+        y = "52"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.dcmar.fashionapp.MainActivity"/>
+      <point      
+        x = "105"      
+        y = "259"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
         className = "com.example.robby.fashionapplication.TestNav"/>
       <point      
         x = "2248"      
         y = "800"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.dcmar.fashionapp.login"/>
+      <point      
+        x = "422"      
+        y = "44"/>
     </statePointEntry>
     <statePointEntry>
       <state      
