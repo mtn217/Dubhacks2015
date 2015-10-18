@@ -1,11 +1,7 @@
 <resources>
-    <string name="app_name">FashionApplication</string>
-    <string name="action_settings">Settings</string>
-    <string name="tops">Tops</string>
-    <string name="bottoms">Bottoms</string>
-    <string name="pants">pants</string>
-    <string name="accessories">Accessories</string>
-    <string name="shoes">shoes</string>
-    <string name="sortbutton">Sort</string>
-    <string name="loveitbutton">LOVE IT!</string>
+    <string name="app_name">FashionApp</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_backgrounds">backgrounds</string>
+    <string name="title_activity_login">login</string>
+    <string name="title_activity_wrongpassword">wrongpassword</string>
 </resources>

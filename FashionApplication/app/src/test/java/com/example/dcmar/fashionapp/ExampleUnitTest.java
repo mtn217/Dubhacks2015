@@ -1,4 +1,4 @@
-package com.example.robby.fashionapplication;
+package com.example.dcmar.fashionapp;
 
 import org.junit.Test;
 
