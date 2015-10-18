@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+        <ZoomButton
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:id="@+id/Tops"
+            android:contentDescription="@string/tops"
+            android:clickable="true"
+            android:layout_marginLeft="20dp"
+            android:layout_gravity="left|top"
+            android:layout_marginTop="20dp"
+            android:background="@mipmap/sweateronly" />
+
+        <ZoomButton
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:id="@+id/Bottoms"
+            android:contentDescription="@string/bottoms"
+            android:clickable="true"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="140dp"
+            android:layout_gravity="left|top"
+            android:src="@mipmap/jeans" />
+
+        <ZoomButton
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:id="@+id/Shoes"
+            android:contextClickable="true"
+            android:contentDescription="@string/shoes"
+            android:clickable="true"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="50dp"
+            android:layout_gravity="left|center_vertical"
+            android:src="@mipmap/ankleboots" />
+
+        <ZoomButton
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:id="@+id/Accessories"
+            android:contentDescription="@string/accessories"
+            android:clickable="true"
+            android:layout_marginLeft="20dp"
+            android:layout_gravity="left|center_vertical"
+            android:layout_marginTop="170dp"
+            android:src="@mipmap/necklacebird" />
+
+        <<<<<<< HEAD:FashionApplication<![CDATA[/app/src/main/res/layout/closet.xml
+=======
+
+>>>>>>> da08b982aaff9af93157329fabdb61cabc9184fd:FashionApplication/app/src/main/res/layout/activity_closet.xml
+    ]]>
+
+        <Button
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:text="Ask Cortana"
+            android:layout_gravity="center_horizontal|bottom"
+            android:layout_marginLeft="60dp"
+            android:textSize="20sp"
+            android:clickable="true"
+            android:layout_marginBottom="5dp" />
+
+        <ZoomButton
+            android:layout_width="220dp"
+            android:layout_height="400dp"
+            android:id="@+id/imageButton24"
+            android:layout_gravity="right|top"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="30dp"
+            android:src="@mipmap/sweater" />
+
+</FrameLayout>
+
