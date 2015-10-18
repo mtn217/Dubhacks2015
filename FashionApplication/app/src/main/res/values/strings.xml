@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">FashionApplication</string>
     <string name="action_settings">Settings</string>
+    <string name="tops">Tops</string>
+    <string name="bottoms">Bottoms</string>
+    <string name="pants">pants</string>
+    <string name="accessories">Accessories</string>
+    <string name="shoes">shoes</string>
+    <string name="sortbutton">Sort</string>
+    <string name="loveitbutton">LOVE IT!</string>
 </resources>
